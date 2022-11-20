@@ -5,6 +5,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://dashboard.heroku.com/apps/dfb-blog-jobman/activity/builds/35d14076-ed1d-4d27-b12d-91052f9ee835)
 
+_click on heart_
+
 With a small amount of code was built a Blog application that allows for creating, reading,
 updating, and deleting blog posts. also known as acronym CRUD: Create-Read-Update-Delete.
 
