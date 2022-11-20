@@ -17,7 +17,8 @@ Properly configured static files for production and deployed our website to Hero
 
 - CRUD
 - Auth(SignUp & SignIn)
-- ✨Static files for production ✨
+- Static files for production
+- ✨ Testing ✨
 
 ## Features
 
